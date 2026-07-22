@@ -49,7 +49,7 @@ AIML-Help-Desk/
 │   └── college_handbook.pdf
 ⚙️ Installation
 Clone the Repository
-git clone https://github.com/Bhavana137/AIML-Help-Desk.git
+git clone https://github.com/peravaliDesaiReddy/AIML-Help-Desk.git
 Navigate to the Project Folder
 cd AIML-Help-Desk
 Install Dependencies
@@ -88,19 +88,19 @@ Database Integration
 OpenAI / Gemini API Support
 🌐 Live Demo
 GitHub Pages
-https://bhavana137.github.io/AIML-Help-Desk/
+https://peravaliDesaiReddy.github.io/AIML-Help-Desk/
 
 Note: GitHub Pages can only host static files (HTML, CSS, and JavaScript). Since this project uses a Flask (Python) backend with LangChain and ChromaDB, the complete AI chatbot functionality is not available on GitHub Pages. To experience the full chatbot, run the project locally or deploy the Flask application on a Python hosting platform such as Render.
 
 📂 GitHub Repository
-https://github.com/Bhavana137/AIML-Help-Desk
+https://github.com/peravaliDesaiReddy/AIML-Help-Desk
 
 👩‍💻 Author
-Mukkamalla Venkata Bhavana
+Peravali Desai Reddy
 
 Bachelor of Technology (Computer Science and Engineering)
 
-Sri Venkateswara College of Engineering, Tirupati
+Sri Venkateswara College of Engineering and Technology, Chittoor
 
 🙏 Acknowledgements
 This project was developed using the following open-source technologies:
